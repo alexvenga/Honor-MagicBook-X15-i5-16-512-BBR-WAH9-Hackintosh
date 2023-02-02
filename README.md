@@ -1,2 +1,1 @@
-# Honor MagicBook X15 i516512 BBR-WAH9 Hackintosh
- Honor MagicBook X15 i516512 BBR-WAH9 Hackintosh files for OpenCore (EFI)
+# OpenCore v0.8.8 (Hackintosh) files for Honor MagicBook X15 (2021) i5/16/512 (BBR-WAH9)
